@@ -29,7 +29,7 @@ This is a simple, responsive clone of the Spotify web player built using only **
 
 ## 📸 Screenshots
 ## 1
-![image-alt](https://github.com/RahulT09/Spotify-Clone/blob/main/Screenshot%202025-08-06%20233345.png?raw=true)
+<img width="1918" height="909" alt="Image" src="https://github.com/user-attachments/assets/c9609f88-3a44-4fe5-b3ab-45cb91d2a76b" />
 
 ---
 ## 2
