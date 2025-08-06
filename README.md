@@ -42,4 +42,4 @@ This is a simple, responsive clone of the Spotify web player built using only **
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/RahulT09/Spotify-Clone.git
