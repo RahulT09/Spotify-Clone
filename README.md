@@ -2,11 +2,9 @@
 
 This is a simple, responsive clone of the Spotify web player built using only **HTML** and **CSS**. It mimics the core UI elements of Spotify's desktop app, including the sidebar, main content area, and footer player — all without JavaScript.
 
-![Spotify Clone Screenshot](insert-screenshot-url-here)
 
-## 🌐 Live Demo
 
-[Click here to view the live project](insert-your-live-link-if-hosted)
+
 
 ---
 
@@ -30,9 +28,9 @@ This is a simple, responsive clone of the Spotify web player built using only **
 ---
 
 ## 📸 Screenshots
+https://github.com/RahulT09/Spotify-Clone/blob/main/Assest/Screenshot%202025-08-06%20233345.png
+https://github.com/RahulT09/Spotify-Clone/blob/main/Assest/Screenshot%202025-08-06%20233410.png
 
-Screenshot 2025-08-06 233345.png
-Screenshot 2025-08-06 233410.png
 
 ---
 
