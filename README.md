@@ -8,7 +8,7 @@ This is a simple, responsive clone of the Spotify web player built using only **
 
 ---
 
-## 📁 Features
+## Features
 
 ✅ Clean and structured layout  
 ✅ Spotify-like UI with sidebar navigation  
